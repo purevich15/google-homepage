@@ -1,0 +1,59 @@
+body {
+	font-family: arial, helvetica, sans-serif;
+}
+
+#googleimage {
+	text-align:center;
+	
+}
+
+.search{
+	width: 100%;
+	text-align:center;
+}
+
+#searchbox {
+	margin: 0 auto;
+	display:inline-block;
+	width:272px;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	display: inline;
+}
+
+#navbar-left{
+	position: fixed;
+	top: 0;
+	left: 10px;
+}
+
+#navbar-right{
+	position: fixed;
+	top: 0;
+	right: 10px;
+}
+
+#footer-left{
+	position: fixed;
+	bottom: 0;
+	left: 10px;
+}
+
+#footer-right{
+	position: fixed;
+	bottom: 0;
+	right: 10px;
+}
+
+
+
+
+
+
