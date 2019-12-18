@@ -12,10 +12,11 @@ body {
 	text-align:center;
 }
 
-#searchbox {
+.searchbox {
 	margin: 0 auto;
 	display:inline-block;
 	width:272px;
+	box-sizing: border-box;
 }
 
 ul{
@@ -38,6 +39,13 @@ li{
 	position: fixed;
 	top: 0;
 	right: 10px;
+}
+
+.footer{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	border: 10px solid gray;
 }
 
 #footer-left{
